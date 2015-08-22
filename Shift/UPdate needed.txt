@@ -1,0 +1,10 @@
+UPDATES NEEDED:
+
+remove designs
+Insert open license
+
+Add output enable functionality
+Add pin active state-low/high
+restructure using structs instead of arrays
+
+remove support for pullup resistor after confirming with existing tech
