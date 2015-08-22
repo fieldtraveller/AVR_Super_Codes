@@ -104,11 +104,11 @@ DESCRIPTION:Contains ASCII character macros.
 #define ASCII_VALUE_OF_FULL_STOP '.'
 #define ASCII_VALUE_OF_COLON ':'
 #define ASCII_VALUE_OF_SEMI_COLON ';'
-#define ASCII_VALUE_OF_BACKSLASH '/'
+#define ASCII_VALUE_OF_FORWARDSLASH '/'
 #define ASCII_VALUE_OF_QUESTION_MARK '?'
 #define ASCII_VALUE_OF_SINGLE_QUOTES '\''
 #define ASCII_VALUE_OF_DOUBLE_QUOTES '\"'
-#define ASCII_VALUE_OF_FORWARDSLASH '\\'
+#define ASCII_VALUE_OF_BACKSLASH '\\'
 #define ASCII_VALUE_OF_OR '|'
 
 /******************************************************************************************************/
